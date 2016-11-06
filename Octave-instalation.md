@@ -12,7 +12,7 @@ $ sudo chown [user] qt-settings
 ```bash
 $ sudo apt install liboctave-dev
 ```
-## install a octave package
+## install a octave package ( ex, nan package )
 ```bash
 $ octave 
 GNU Octave, version 4.0.2
