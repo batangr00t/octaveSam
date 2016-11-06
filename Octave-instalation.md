@@ -1,4 +1,4 @@
-# Ocatve installation in Ubuntu 16.04
+# Octave installation in Ubuntu 16.04
 ```bash
 $ sudo add-apt-repository ppa:octave/stable
 $ sudo apt-get update
@@ -7,7 +7,7 @@ $ cd .config/octave
 $ sudo chown [user] qt-settings
 ```
 
-# Ocatave package installation
+# Octave package installation
 ## install liboctave-dev
 ```bash
 $ sudo apt install liboctave-dev
