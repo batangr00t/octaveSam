@@ -1,5 +1,5 @@
 # time
-t = 0:0.5:10;
+t = 0:0.5:20;
 
 # error function : nornal distribution
 # time delay ( -0.2sec < et < 0.2sec )
@@ -31,6 +31,9 @@ for testcase = 1:1:9;
     lpf(testcase, i) = val;
   endfor
 endfor
+
+# figure
+figure ( 8 );
 
 ## f vs lpf
 for i = 1:9 
