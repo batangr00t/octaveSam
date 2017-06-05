@@ -7,6 +7,9 @@
 
 # example plot image
 
-* ![gen_lpf_sample](ex_lowpassfilter.png)
-* ![cmp_interpolation](ex_cmp_interpolation.png)
-* ![cmp_polyfit](ex_cmp_polyfit.png)
+* low pass filter example 
+  - ![gen_lpf_sample](ex_lowpassfilter.png)
+* low pass filter vs interpolation 
+  - ![cmp_interpolation](ex_cmp_interpolation.png)
+* low pass filter vs polynomial fitting 
+  - ![cmp_polyfit](ex_cmp_polyfit.png)
